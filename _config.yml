@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Virtual AeroLab
+title:            VirtualAeroLab
 tagline:          'A CFD Practitioner Blog'
 description:      'last test'
 url:              https://fongandrew.github.io/hydeout
