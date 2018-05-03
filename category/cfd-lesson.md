@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: CFD Lessons
 ---
 
 Another sample category page.
