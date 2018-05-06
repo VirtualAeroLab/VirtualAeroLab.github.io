@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            VirtualAeroLab
 tagline:          'A CFD Practitioner Blog'
-description:      'new test 10'
+description:      'A CFD Practitioner Blog'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -33,5 +33,3 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-github:
-  repo:             https://github.com/fongandrew/hydeout
