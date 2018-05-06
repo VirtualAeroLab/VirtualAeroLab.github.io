@@ -1,4 +1,4 @@
-#Site content copyright is owned by the contributors of VirtualAeroLab, except when otherwise stated.
+# Site content copyright is owned by the contributors of VirtualAeroLab, except when otherwise stated.
 
 
 # Jykell Base Theme Released under MIT License
