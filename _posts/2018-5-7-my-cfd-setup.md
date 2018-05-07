@@ -28,7 +28,7 @@ a few opensource tools for personal use on my personal computers.</p>
 <p>1. For geometry FreeCAD and NaroCAD will be used. There is currently no preference, but both will be examined until one is selected as the primary geometry tool.</p>
 {: style="text-align: justify;"}
 
-<p>2. Gmesh will be used for the meshing step and some basic preprocessing. Have not investigated entirely so not what it offers.</p>
+<p>2. Gmesh will be used for the meshing step and some basic preprocessing. Have not investigated entirely so not sure the limitations.</p>
 {: style="text-align: justify;"}
 
 <p>3. Preprocessing in terms of problem definition and solving will be handled by SU2.</p>{: style="text-align: justify;"}
