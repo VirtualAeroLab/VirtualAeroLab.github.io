@@ -2,7 +2,7 @@
 layout: post
 title: My CFD Setup
 date: 2018-5-7
-excerpt_separator: "A general breakdown of the tools that will be used at all stages for CFD workflow."
+excerpt: "A general breakdown of the tools that will be used at all stages for CFD workflow."
 tags:
   - CFD
   - Tools
