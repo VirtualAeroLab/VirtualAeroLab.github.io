@@ -19,5 +19,5 @@ current planned once a week schedule.</p>
 {: style="text-align: justify;"}
 
 <p>Finally, the content here will probably be software/code agnostic and probably be a mix of commercial and opensoure solutions. I want to
-focus on general techniques and workflow until a buildup a solid base for CFD fundamentals.</p>
+focus on general techniques and workflow until I buildup a solid foundation for CFD fundamentals.</p>
 {: style="text-align: justify;"}
