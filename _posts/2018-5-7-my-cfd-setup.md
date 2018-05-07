@@ -25,11 +25,13 @@ a few opensource tools for personal use on my personal computers.</p>
 <p>The following tools address all the CFD steps:</p>
 {: style="text-align: justify;"}
 
-<p>1. For geometry FreeCAD and NaroCAD will be used. There is currently no preference, but both will be examined until one is selected as the primary geometry tool.
+<p>1. For geometry FreeCAD and NaroCAD will be used. There is currently no preference, but both will be examined until one is selected as the primary geometry tool.</p>
+{: style="text-align: justify;"}
 
-2. Gmesh will be used for the meshing step and some basic preprocessing. Have not investigated entirely so not what it offers.
+<p>2. Gmesh will be used for the meshing step and some basic preprocessing. Have not investigated entirely so not what it offers.</p>
+{: style="text-align: justify;"}
 
-3. Preprocessing in terms of problem definition and solving will be handled by SU2.
+<p>3. Preprocessing in terms of problem definition and solving will be handled by SU2.</p>{: style="text-align: justify;"}
 
-4. ParaView will be used for post-processing and external tools like Python for data-processing.</p>
+<p>4. ParaView will be used for post-processing and external tools like Python for data-processing.</p>
 {: style="text-align: justify;"}
