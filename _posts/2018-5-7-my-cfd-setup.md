@@ -2,7 +2,7 @@
 layout: post
 title: "My CFD Setup"
 date: 2018-5-7
-excerpt_separator: "A general breakdown of the tools that will be used at all stages for CFD workflow."
+excerpt_separator: "A general breakdown of the tools that will be used at all stages for CFD workflow."  <!--more-->
 tags:
   - CFD
   - Tools
@@ -29,3 +29,5 @@ a few opensource tools for personal use on my personal computers.</p>
 3. Preprocessing in terms of problem definition and solving will be handled by SU2.
 
 4. ParaView will be used for post-processing and external tools like Python for data-processing.
+
+{: style="text-align: justify;"}
