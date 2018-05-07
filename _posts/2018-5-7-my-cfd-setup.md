@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "My CFD Setup"
+title: My CFD Setup
 date: 2018-5-7
-excerpt_separator: "A general breakdown of the tools that will be used at all stages for CFD workflow.<!--more-->"
+excerpt_separator: "A general breakdown of the tools that will be used at all stages for CFD workflow."
 tags:
   - CFD
   - Tools
@@ -25,14 +25,11 @@ a few opensource tools for personal use on my personal computers.</p>
 <p>The following tools address all the CFD steps:</p>
 {: style="text-align: justify;"}
 
-1. For geometry FreeCAD and NaroCAD will be used. There is currently no preference, but both will be examined until one is selected as the primary geometry tool.
-{: style="text-align: justify;"}
+<p>1. For geometry FreeCAD and NaroCAD will be used. There is currently no preference, but both will be examined until one is selected as the primary geometry tool.
 
 2. Gmesh will be used for the meshing step and some basic preprocessing. Have not investigated entirely so not what it offers.
-{: style="text-align: justify;"}
 
 3. Preprocessing in terms of problem definition and solving will be handled by SU2.
-{: style="text-align: justify;"}
 
-4. ParaView will be used for post-processing and external tools like Python for data-processing.
+4. ParaView will be used for post-processing and external tools like Python for data-processing.</p>
 {: style="text-align: justify;"}
