@@ -10,14 +10,16 @@ for their graduate project. This site is just going to be a blog where I can exp
 programming solvers to understand the underlying principals, and other aspects such as the mathematics/physics. I am not sure what
 direction I want to take this site, but for right now it will just to be used as a vehicle to explore various topics. As my studies 
 progress then I might turn this into a more of a portfolio site, but that depends if I want to continue with this. </p>
+{: style="text-align: justify;"}
 
 <p>My current plan is to post every Friday a basic case that I use as a learning tool (such as tutorials for software/codes) or basic
 programming problems. Each month I want to explore some aspect of CFD and at the end of each month there might be a post that will be
 longer than the normal posts I plan on doing. My thinking is I might then progress onto a larger problem that will span more than the 
 current planned once a week schedule.</p>
+{: style="text-align: justify;"}
 
 <p>Finally, the content here will probably be software/code agnostic and probably be a mix of commercial and opensoure solutions. I want to
 focus on general techniques and workflow until a buildup a solid base for CFD fundamentals.</p>
-{: .text-justify}
+{: style="text-align: justify;"}
 
-Test1
+Test2
